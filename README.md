@@ -14,13 +14,12 @@ Breast-Lesions-USG | A Curated Benchmark Dataset for Ultrasound Based Breast Les
 </b>
 </a>
 <br>
-
 <br>
 <b>Acutual Image Segmentation for 512x512 Breast-Lesions-USG images</b><br>
 
 As shown below, the inferred masks predicted by our segmentation model trained on the 
 PNG dataset appear similar to the ground truth masks.<br>
-<b>rgb_map =  (benign:green, malignant:red)</b><br>
+<b>rgb_map =  (benign:green, malignant:red)</b>
 <br>
 <br>
 <table>
