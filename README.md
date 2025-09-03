@@ -56,7 +56,6 @@ Breast-Lesions-USG | A Curated Benchmark Dataset for Ultrasound Based Breast Les
 </a>
 <br><br>
 <b>Summary</b><br>
-
 This dataset consists of 256 breast ultrasound scans collected from 256 patients and 266 benign and malignant segmented lesions.  
 It includes patient-level labels, image-level annotations, and tumor-level labels with all cases confirmed by follow-up care 
 or biopsy result. Each scan was manually annotated and labeled by a radiologist experienced in breast ultrasound examination. 
@@ -96,7 +95,7 @@ Pawłowska, A., Ćwierz-Pieńkowska, A., Domalik, A., Jaguś, D., Kasprzak, P., 
 <br>
 <h3>
 <a id="2">
-2 Augmented-Breast-Lesions-USG ImageMask Dataset
+2 Breast-Lesions-USG ImageMask Dataset
 </a>
 </h3>
  If you would like to train this Breast-Lesions-USG Segmentation model by yourself,
